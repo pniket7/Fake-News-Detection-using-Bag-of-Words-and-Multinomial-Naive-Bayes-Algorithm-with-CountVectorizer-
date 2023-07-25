@@ -38,9 +38,6 @@ You can install these libraries using pip or conda package manager.
 
 5.  **Usage:**
 
-```{=html}
-<!-- -->
-```
 a)  Load the Dataset:
 
 -   The dataset is loaded from a CSV file using pandas.
